@@ -1,4 +1,4 @@
-import "./Pokecard.css";
+
 const API = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/"
 
 //Single Pokemon card with props of: title, image, type, and exp (number of experience points) 

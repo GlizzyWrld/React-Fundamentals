@@ -1,5 +1,5 @@
 import Pokecard from "./Pokecard";
-import "./Pokedex.css"
+
 
 
 //Index of Pokemon: show description of all pokemon 
