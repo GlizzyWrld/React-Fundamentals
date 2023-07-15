@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`calls removeTodo function when X button is clicked 1`] = `
+<div>
+  <div
+    class="todo"
+  >
+    <div>
+      Test Task
+    </div>
+    <button>
+      X
+    </button>
+  </div>
+</div>
+`;
+
+exports[`renders Todo component without errors 1`] = `
+<div>
+  <div
+    class="todo"
+  >
+    <div>
+      Test Task
+    </div>
+    <button>
+      X
+    </button>
+  </div>
+</div>
+`;

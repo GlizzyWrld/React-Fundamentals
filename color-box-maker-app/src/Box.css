@@ -1,0 +1,18 @@
+.Box {
+    display: inline-block;
+    margin: 10px;
+  }
+  
+  .Box div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .Box button {
+    margin-top: 5px;
+  }
+  
+  

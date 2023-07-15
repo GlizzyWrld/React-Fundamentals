@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders NewTodoForm component without errors 1`] = `
+<div>
+  <form>
+    <input
+      placeholder="Enter task"
+      type="text"
+      value=""
+    />
+    <button
+      type="submit"
+    >
+      Add Todo
+    </button>
+  </form>
+</div>
+`;
+
+exports[`submits form and calls addTodo function with correct value 1`] = `
+<div>
+  <form>
+    <input
+      placeholder="Enter task"
+      type="text"
+      value=""
+    />
+    <button
+      type="submit"
+    >
+      Add Todo
+    </button>
+  </form>
+</div>
+`;
