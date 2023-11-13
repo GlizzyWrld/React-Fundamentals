@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "./Card.css";
 
 // renders a single card as received from deck. 
 function Card({ name, image }) {

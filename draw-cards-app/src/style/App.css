@@ -1,3 +1,6 @@
+@import './Card.css';
+@import './Deck.css';
+
 .App {
   text-align: center;
 }

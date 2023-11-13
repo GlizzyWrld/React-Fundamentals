@@ -1,10 +1,8 @@
-import Deck from "./Deck"
+import { DeckView } from "./views";
 
 function App() {
   return (
-      <div>
-        <Deck />
-      </div>
+     <DeckView/>
   );
 }
 
